@@ -6,4 +6,4 @@ test
 
 #3 Creating a new branch is quick and simple
 
-#4 test --no-ff merge
+#4 test --no-ff merge, fix bug 101
